@@ -1,0 +1,31 @@
+//break points
+$breakpoints: (
+    "extra-large": 1200px,
+    "large": 992px,
+    "medium": 768px,
+    "small": 576px,
+    "extra-large-down": 1199.98px,
+    "large-down": 991.98px,
+    "medium-down": 767.98px,
+    "small-down": 575.98px,
+);
+
+
+$color-text: #171427;
+$bg-color: #ffffff;
+$color-primary: #f57f17;
+$color-red: #ed0000;
+
+//font size
+$fs-1: 14px;
+$fs-2: 1.1rem;
+$fs-3: 1.8rem;
+$fs-4: 3rem;
+$fs-5: 16px;
+$fs-6: 1.4rem;
+$fs-7: 15px;
+//font weight
+$fw-1: 400;
+$fw-2: 500;
+$fw-3: 600;
+$fw-4: 700;
